@@ -1,0 +1,39 @@
+1. Grocery Shopping
+
+Ali goes to the store and buys a product called Milk that costs $20. Write a program that stores the product name and its price in variables, then displays a message showing what Ali bought and for how much.
+
+2. Circle Area
+
+A mathematics teacher asks students to calculate the area of a circle with a given radius. The value of π (PI) should not change, so it must be stored in a constant. If the radius is 5, write a program to calculate and display the area.
+
+3. Email Generator
+
+Fatima is creating her email address. Her username is ali, and her email provider is gmail.com. Write a program that joins these parts together to display her complete email address.
+
+4. Pizza Sharing
+
+Three friends bought a pizza that has 10 slices. They want to share it equally. Write a program that calculates how many slices each friend gets and how many slices remain after sharing.
+
+5. Voting Age Check
+
+A country allows people to vote only if they are 18 years old or older. Write a program that checks if a person’s age (for example, 18) meets the requirement and displays the result as true or false.
+
+6. Login System
+
+A simple website asks for a username and password. Suppose the correct username is admin and the password is 1234. Write a program that checks whether the entered username and password are both correct.
+
+7. Discount Offer
+
+A store gives discounts based on customer type. VIP customers get a 20% discount, while all other customers get a 5% discount. Write a program that checks the customer type and prints the correct discount.
+
+8. Step Counter
+
+Ahmed is using a step counter app. He starts with 10 steps. Every time he walks forward, the step count increases by one. If he walks backward, the step count decreases by one. Write a program to show the step count after moving forward and backward once.
+
+9. Checking Data Types
+
+In a school system, a student’s score is stored as a number (95), and the student’s name is stored as text ("Fatima"). Write a program that checks the data type of both values and displays the result.
+
+10. Restaurant Bill
+
+A restaurant’s billing system stores the food bill as a string (for example, "200"), but the tip is stored as a number (50). Write a program that adds them together and shows the result, then discuss why the total looks unusual.

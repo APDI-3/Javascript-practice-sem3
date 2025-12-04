@@ -1,0 +1,49 @@
+1. Using Template Literals
+
+Concert Ticket
+Sara buys 3 tickets for a concert, each costing $25. Write a program that stores her name, the number of tickets, and the price per ticket, then display a sentence using template literals showing how much she paid in total.
+
+Flight Booking
+Ali books a flight from Nairobi to Dubai. His ticket number is 12345. Write a program that combines his name, ticket number, and route into a sentence using template literals.
+
+. Variable Swapping
+
+Classroom Chairs
+Two students, Amina and Omar, sit in each other’s chairs. Write a program that swaps their chair assignments so Amina goes back to her chair and Omar to his.
+
+Bank Account Transfer
+Two friends accidentally received each other’s ATM cards: one belongs to Ahmed and the other to Fatima. Write a program to swap their ATM cards back to the correct owners.
+
+3. Selections (if, else if, nested)
+
+Café Discount (Single Alternative)
+A café gives a 10% discount if a customer buys more than 5 cups of coffee. Write a program that checks the number of cups bought and applies the discount if the condition is true.
+
+Pass or Fail (Dual Alternative)
+A student needs at least 50 marks to pass the exam. Write a program that checks the student’s marks and displays whether they passed or failed.
+
+Movie Ticket Price (Multi Alternative)
+A cinema charges different prices: children under 12 pay $5, adults pay $10, and seniors over 60 pay $7. Write a program that decides the ticket price based on age.
+
+Scholarship (Nested If Else)
+A student can get a scholarship if their average is above 80. If it is above 90, they get a full scholarship; otherwise, they get a half scholarship. Write a program that checks and prints which scholarship they get.
+
+4. Switch Concepts (string and integer)
+
+School Timetable (Switch with String)
+A school has different activities for different days: Monday is Math Club, Wednesday is Science Lab, and Friday is Sports Day. Write a program that prints the activity based on the day entered.
+
+Restaurant Menu (Switch with Number)
+A restaurant menu uses numbers: 1 for Pizza, 2 for Burger, 3 for Salad. Write a program that shows which food a customer ordered based on the number they select.
+
+Hospital Department (Switch with String)
+A hospital directs patients based on their department: “Cardiology” for heart issues, “Dermatology” for skin problems, and “Pediatrics” for children. Write a program that displays which department the patient should go to based on the entered department name.
+
+Bus Route Number (Switch with Number)
+A city bus system uses numbers: Bus 101 goes to the airport, Bus 202 goes to the train station, and Bus 303 goes to the shopping mall. Write a program that shows the destination based on the bus number.
+
+School Grade Levels (Switch with Number)
+In a school: 1 means Primary, 2 means Middle School, 3 means High School. Write a program that prints the level of the student based on the entered grade number.
+
+Weather Forecast (Switch with String)
+The weather app shows different advice: “Sunny” means wear sunglasses, “Rainy” means carry an umbrella, and “Cold” means wear a jacket. Write a program that prints advice based on the weather condition.

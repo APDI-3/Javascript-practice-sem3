@@ -1,0 +1,67 @@
+Assignment 1: Greeting Based on Time
+
+Write a function named greetUser(name, hour) that takes the user’s name and the current hour (in 24-hour format). Use an if–else structure to print a suitable greeting message. If the hour is less than 12, display “Good Morning, [name]”; if it is less than 18, display “Good Afternoon, [name]”; otherwise, display “Good Evening, [name]”. Call the function with your own name and a sample hour.
+
+Assignment 2: Check Voting Eligibility
+
+Create a function named checkVotingAge(age) that checks if a person is eligible to vote. If the age is 18 or older, print “You are eligible to vote.” Otherwise, print “You are not eligible to vote yet.” Call the function with a few sample ages to test both possible outcomes.
+
+Assignment 3: Calculate Total Price
+
+Write a function named calculateTotal(price, quantity) that returns the total amount by multiplying price and quantity. If the total is greater than $100, display “You get a 10% discount!” and then calculate the discounted total. Display the result using console.log() to show how return values work.
+
+Assignment 4: Even or Odd Checker
+
+Write a function named checkEvenOdd(limit) that uses a for loop to iterate from 1 up to the given limit. For each number, print whether it is even or odd. For example:
+1 is Odd
+2 is Even
+3 is Odd, and so on.
+
+Assignment 5: Student Grade Evaluator
+
+Write a function named calculateGrade(score) that prints a letter grade based on the following scale:
+90–100 → A, 80–89 → B, 70–79 → C, and below 70 → Fail.
+Use an if–else if structure to implement this logic, then call the function with a few sample test scores.
+
+Assignment 6: Default Parameter — Coffee Order
+
+Create a function named makeCoffee(type = "Black Coffee", sugar = 1) that prints “Making [type] with [sugar] spoon(s) of sugar.” If the sugar value is greater than 3, display an extra warning message: “That’s too much sugar!” Call the function with different arguments and observe how default parameters work.
+
+Assignment 7: Multiplication Table Using Loop
+
+Write a function named printTable(number) that displays the multiplication table for the given number using a loop. For example, if the number is 5, print:
+5 × 1 = 5,
+5 × 2 = 10,
+and so on, up to 5 × 10 = 50.
+
+Assignment 8: Simple ATM Function
+
+Create a function named withdrawMoney(balance, amount) that simulates a simple ATM withdrawal process. If the requested amount is less than or equal to the balance, subtract it and return the new balance. If not, print “Insufficient funds.” Then call the function with a few different test values.
+
+Assignment 9: Calculate Average Temperature
+
+Write a function named averageTemperature() that uses a loop to collect temperature readings for five days (you can use prompt() for user input). Calculate the average temperature and display it. If the average is greater than 30, print “It’s a hot week!” otherwise print “Weather is normal.”
+
+Assignment 10: Parking Fee Calculator
+
+Create a function named calculateParkingFee(hours) that calculates parking fees based on the following rules: $2 per hour for the first 3 hours, $1 for each additional hour, and a flat fee of $10 if the total hours exceed 10. Return and display the total fee in a readable format.
+
+Assignment 11: Menu-Driven Program (Main Function)
+
+Write a program that displays a simple text menu with the following options:
+
+Check Even or Odd
+
+Calculate Total Price
+
+Make a Coffee
+
+Define three separate functions:
+
+checkEvenOdd(limit) — prints whether numbers are even or odd (from Assignment 4).
+
+calculateTotal(price, quantity) — calculates and returns total cost (from Assignment 3).
+
+makeCoffee(type, sugar) — displays a coffee order message (from Assignment 6).
+
+Then create a main function named mainMenu() that displays the menu, asks the user (using prompt()) to enter a choice between 1 and 3, and then calls the appropriate function based on the user’s choice using an if–else or switch statement. If an invalid number is entered, display “Invalid choice, please try again.” Finally, call the main function to start the program.

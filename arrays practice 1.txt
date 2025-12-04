@@ -1,0 +1,92 @@
+1. Student Grades
+
+Create an array grades = [78, 85, 92, 60, 89].
+👉 Find and print the average grade using a loop or reduce().
+
+2. Shopping Cart
+
+You have cart = ["Milk", "Bread", "Eggs"].
+👉 Add "Butter" at the end, "Juice" at the beginning, and remove "Milk".
+👉 Print the final cart.
+
+3. Product Prices
+
+Given prices = [10, 20, 30, 40],
+👉 Use map() to calculate the new prices after adding 15% tax.
+👉 Print both the old and new arrays.
+
+4. Attendance List
+
+You have an array of student names:
+students = ["Ali", "Fatima", "Omar", "Hassan", "Layla"]
+👉 Find whether "Omar" attended using includes().
+👉 Print a message like "Omar is present" or "Omar is absent".
+
+5. Temperature Readings
+
+Given temps = [25, 30, 29, 33, 27, 35, 28],
+👉 Use filter() to get all temperatures above 30°C.
+
+6. Library Books
+
+Create an array of book titles.
+👉 Add two new books using push().
+👉 Remove one using pop().
+👉 Display the total number of books using length.
+
+7. Restaurant Orders
+
+You have orders = ["Pizza", "Burger", "Juice", "Salad"].
+👉 Use splice() to replace "Burger" with "Shawarma".
+👉 Print the updated array.
+
+8. Monthly Sales
+
+Given sales = [1200, 2300, 1800, 2900, 3100],
+👉 Use reduce() to find the total yearly sales.
+
+9. Movie Ratings
+
+ratings = [4.5, 3.2, 5.0, 2.9, 4.1]
+👉 Use filter() to select all ratings greater than or equal to 4.
+
+10. Classroom Seats (2D Array)
+
+Create a 2D array representing 3 rows of seats:
+
+let classroom = [
+  ["Ali", "Fatima"],
+  ["Omar", "Layla"],
+  ["Hassan", "Amina"]
+];
+
+
+👉 Access and print the student sitting in row 2, column 1.
+
+11. Grocery Prices
+
+items = ["Rice", "Sugar", "Flour", "Tea"]
+prices = [3, 5, 2, 4]
+👉 Print each item and its price using a for loop or forEach().
+
+12. Flight Destinations
+
+Create an array destinations = ["Doha", "Dubai", "Nairobi", "Istanbul"].
+👉 Use slice() to copy only the first two destinations into a new array.
+
+13. Exam Marks Sorting
+
+marks = [45, 88, 67, 92, 55, 76]
+👉 Sort them in ascending order and print both the original and sorted arrays.
+
+14. Warehouse Stock
+
+stock = [120, 80, 150, 60]
+👉 Find the maximum and minimum stock values using Math.max() and Math.min() with the spread operator ....
+
+15. Combine Teams
+
+teamA = ["Ali", "Layla"]
+teamB = ["Omar", "Fatima"]
+👉 Combine them into one array using concat() or the spread operator.
+👉 Print the final team list.
