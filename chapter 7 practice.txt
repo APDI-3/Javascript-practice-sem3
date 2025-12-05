@@ -1,0 +1,94 @@
+1️⃣ Creating Objects Using Object Literal – (3 Questions)
+
+Write a program that creates an object representing a student with the following details:
+{ name: "Amina", age: 20, course: "Data Science" } and prints all the details.
+
+Write a program that creates an object representing a car with this information:
+{ brand: "Toyota", model: "Corolla", year: 2020 } and displays the car details.
+
+Write a program that creates an object representing a mobile phone containing:
+{ company: "Samsung", storage: "128GB", battery: "85%" } and prints the phone info.
+
+2️⃣ Creating Objects Using Constructor Function – (3 Questions)
+
+Write a program that uses a constructor function to create employee objects with values:
+{ name: "Khalid", salary: 500, role: "Manager" }
+Create one employee and display their details.
+
+Write a program that uses a constructor function to build product objects for an online shop with:
+{ productName: "Laptop", price: 1200, inStock: true }
+Create one product and print its details.
+
+Write a program that uses a constructor function to create book objects with:
+{ title: "JavaScript Basics", author: "John Doe", pages: 250 }
+Create one book and show the book details.
+
+3️⃣ Creating Objects Using ES6 Class – (3 Questions)
+
+Write a program that creates a class Teacher with default values:
+{ name: "Fatima", subject: "Math", experience: 5 }
+Create an object and print its information.
+
+Write a program that creates a class BankAccount with values:
+{ accountNumber: "AC12345", ownerName: "Abdirahman", balance: 3000 }
+Create an object and display the account.
+
+Write a program that defines a class Animal with values:
+{ type: "Cat", color: "White", age: 2 }
+Create an object from the class and print the details.
+
+4️⃣ Accessing & Updating Elements – (3 Questions)
+
+Write a program that creates a laptop object:
+{ brand: "Dell", ram: "8GB", price: 700 }
+Access the brand, then update the ram to "16GB".
+
+Write a program that creates a user profile object:
+{ username: "Ali2025", email: "ali@example.com", age: 22 }
+Print the old email, then update it to "ali.new@example.com".
+
+Write a program that creates a hotel room object:
+{ roomNumber: 105, price: 50, type: "Single" }
+Access the price and change it to 40.
+
+5️⃣ Adding New Elements (Dot & Bracket) – (3 Questions)
+
+Write a program that creates a car object:
+{ brand: "Honda", model: "Civic", year: 2019 }
+Then add owner: "Omar" using dot notation and "last-service-date": "2025-01-01" using bracket notation.
+
+Write a program that creates a student object:
+{ name: "Maryam", grade: "A", school: "Afbaro Academy" }
+Add age: 18 using dot notation and "favorite-subject": "Physics" using bracket notation.
+
+Write a program that creates a shop item object:
+{ itemName: "Milk", price: 2, category: "Food" }
+Add quantity: 30 using dot notation and "discount-percentage": 10 using bracket notation.
+
+6️⃣ Iterating Through Objects – (3 Questions)
+
+Write a program that creates a restaurant menu object:
+{ burger: 5, pizza: 8, juice: 3 }
+Use a loop to print each item and price.
+
+Write a program that creates a city information object:
+{ population: 500000, mayor: "Hassan", area: "200 sq km" }
+Loop through the object and display all details.
+
+Write a program that creates a classroom schedule object:
+{ math: "8:00 AM", english: "10:00 AM", science: "1:00 PM" }
+Iterate and print each subject and time.
+
+7️⃣ Converting Objects to JSON & JSON to Objects – (3 Questions)
+
+Write a program that creates a movie object:
+{ title: "Inception", duration: "2h 30m", rating: 9 }
+Convert it to JSON and print the JSON string.
+
+Write a program that takes this JSON string:
+{"name":"Sara","age":25,"country":"Kenya"}
+Convert it to a JavaScript object and print each property.
+
+Write a program that creates a weather object:
+{ temperature: 32, humidity: "70%", condition: "Sunny" }
+Convert it to JSON and back to an object, then print the final object.
